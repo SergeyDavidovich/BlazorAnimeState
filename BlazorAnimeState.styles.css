@@ -3,7 +3,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color:royalblue;
+    background-color:rgb(110 116 114);
     color:white;
     height:100vh;
 }
