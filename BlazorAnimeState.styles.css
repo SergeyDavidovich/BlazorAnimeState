@@ -3,7 +3,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color:rgb(110 116 114);
+    background-color:rgb(8 52 100);
     color:white;
     height:100vh;
 }
@@ -13,7 +13,8 @@
 }
 
 .sidebar[b-fx576shk5w] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, rgb(8 52 100) 0%, rgb(128 128 128);
+
 }
 
 .top-row[b-fx576shk5w] {
@@ -73,6 +74,10 @@
     }
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
+{
+    color:white!important;
+}
+
 .navbar-toggler[b-1fag3jjnxj] {
     background-color: rgba(255, 255, 255, 0.1);
 }
